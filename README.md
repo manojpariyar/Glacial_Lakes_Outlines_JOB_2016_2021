@@ -38,6 +38,7 @@ in 2019 (Andreassen et al., 2022) to test for data accuracy.
 
 The coordinate system assigned for this product is ETRS_1989_UTM_Zone_32N.
 
+The data is published in the official website of Norwegian Water and Energy Directorate (NVE). https://nve.brage.unit.no/nve-xmlui/handle/11250/3001517
 
 Reference and citation:
 -----------------------
